@@ -7,3 +7,11 @@ This animated gif is made with [LICEcap](https://www.cockos.com/licecap/) and [d
 <p align="center">
   <img src="https://rawgit.com/suzuki-shunsuke/artifact/master/akoi/demo.gif">
 </p>
+
+Embed the animated gif in GitHub Flavored Markdown.
+
+```markdown
+<p align="center">
+  <img src="https://rawgit.com/suzuki-shunsuke/artifact/master/akoi/demo.gif">
+</p>
+```
